@@ -1,0 +1,5 @@
+{
+  "name": "BrickBuilder AI - 3D Lego Editor",
+  "description": "A professional-grade 3D brick building application with physics-based snapping, AI generation, and photorealistic rendering.",
+  "requestFramePermissions": []
+}
